@@ -1,0 +1,29 @@
+# Translation of Odoo Server.
+# This file contains the translation of the following modules:
+# 	* product_limit_number_suppliers
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Odoo Server 9.0e-20170207\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2017-08-19 07:59+0000\n"
+"PO-Revision-Date: 2017-08-19 04:01-0400\n"
+"Last-Translator: <>\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: \n"
+"Language: es_MX\n"
+"X-Generator: Poedit 1.8.11\n"
+
+#. module: product_limit_number_suppliers
+#: model:ir.model,name:product_limit_number_suppliers.model_product_template
+msgid "Product Template"
+msgstr "Plantilla de producto"
+
+#. module: product_limit_number_suppliers
+#: code:addons/product_limit_number_suppliers/models/product.py:38
+#, python-format
+msgid "You can not add more than %s vendors"
+msgstr "No puede agregar mas de %s proveedores"

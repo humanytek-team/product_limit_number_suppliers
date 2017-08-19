@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<openerp>
+    <data noupdate="1">
+    	<record id="config_product_limit_number_suppliers" model="ir.config_parameter">
+            <field name="key">product_limit_number_suppliers</field>
+            <field name="value">1</field>
+        </record>
+    </data>
+</openerp>
